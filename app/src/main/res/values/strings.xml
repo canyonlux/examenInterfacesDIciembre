@@ -1,0 +1,31 @@
+<resources>
+    <!-- Cadena para el nombre de la aplicación como aparece en la Toolbar -->
+    <string name="app_name">EasyStay</string>
+
+    <!-- Cadena para el título de la Toolbar -->
+    <string name="toolbar_title">EasyStay</string>
+
+    <!-- Cadena para el content description del botón de hoteles visitados -->
+    <string name="visited_hotels">Hoteles visitados</string>
+
+    <!-- Cadena para el content description del botón de añadir a favoritos -->
+    <string name="add_to_favorites">Añadir a favoritos</string>
+
+    <!-- Cadena para el hint del EditText de nombre de usuario en la pantalla de login -->
+    <string name="hint_username">Usuario</string>
+
+    <!-- Cadena para el hint del EditText de contraseña en la pantalla de login -->
+    <string name="hint_password">Contraseña</string>
+
+    <!-- Cadena para el texto del botón de login -->
+    <string name="action_sign_in">Login</string>
+
+    <!-- Cadena para el mensaje de Toast cuando se añade un hotel a favoritos -->
+    <string name="toast_added_to_favorites">Se ha añadido a favoritos</string>
+
+    <!-- Cadena para el nombre de usuario por defecto o ejemplo -->
+    <string name="default_user_name">Nombre del Hotel</string>
+
+    <!-- Cadena para la localización por defecto o ejemplo -->
+    <string name="default_location">Localización</string>
+</resources>
